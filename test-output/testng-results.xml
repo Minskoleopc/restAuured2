@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-02T19:31:05 PDT" name="Default suite" finished-at="2023-11-02T19:31:10 PDT" duration-ms="5705">
+  <suite started-at="2023-11-03T19:47:12 PDT" name="Default suite" finished-at="2023-11-03T19:47:17 PDT" duration-ms="5275">
     <groups>
     </groups>
-    <test started-at="2023-11-02T19:31:05 PDT" name="Default test" finished-at="2023-11-02T19:31:10 PDT" duration-ms="5705">
-      <class name="day1.day3">
-        <test-method signature="updateUser()[pri:0, instance:day1.day3@f0da945]" started-at="2023-11-02T19:31:05 PDT" name="updateUser" finished-at="2023-11-02T19:31:10 PDT" duration-ms="5557" status="PASS">
+    <test started-at="2023-11-03T19:47:12 PDT" name="Default test" finished-at="2023-11-03T19:47:17 PDT" duration-ms="5275">
+      <class name="day1.day4">
+        <test-method signature="createUser()[pri:0, instance:day1.day4@17497425]" started-at="2023-11-03T19:47:12 PDT" name="createUser" finished-at="2023-11-03T19:47:17 PDT" duration-ms="5123" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- updateUser -->
-      </class> <!-- day1.day3 -->
+        </test-method> <!-- createUser -->
+      </class> <!-- day1.day4 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

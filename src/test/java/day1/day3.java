@@ -39,7 +39,7 @@ public class day3 {
 				.header("Content-Type", "application/json").header("Authorization", token).when().get();
 		response.then().statusCode(200);
 		response.then().assertThat()
-		.body("data[0].id", equalTo(1700644));
+		.body("data[0].id", equalTo(23));
 		
 
 	}
